@@ -1,10 +1,13 @@
 _repo: Al-mia-fratineto-Letero-pri-la-seksvivo_61579
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Muller, A.
     gutenberg_agent_id: '51499'
     url: http://www.gutenberg.org/2009/agents/51499
+covers:
+- cover_type: archival
+  image_path: 61579-h/images/cover.jpg
 creator:
   author:
     agent_name: Ortt, Felix
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51498
     wikipedia: https://nl.wikipedia.org/wiki/Felix_Ortt
 description: 'Translation of Aan mijn zusje: brief over het geslachtsleven'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61579#Al-mia-fratineto-Letero-pri-la-seksvivo
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2020-03-08'
 gutenberg_type: Text
